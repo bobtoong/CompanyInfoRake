@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question">
+        <item>LG전자 066570</item>
+        <item>삼성전자 005930</item>
+        <item>현대 자동차 005380</item>
+        <item>LG 화학 051910</item>
+        <item>SK텔레콤 017670</item>
+        <item>KT 030200</item>
+    </string-array>
+</resources>
